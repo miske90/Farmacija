@@ -1,0 +1,97 @@
+﻿body {
+    background-color: #15F504;
+}
+
+#BigCont {
+    background-color: white;
+    height: 90%;
+    width: 90%;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    opacity: 80%;
+    border-radius: 10px;
+}
+
+#GVDiv {
+    width: 100%;
+    position: relative;
+    left: 5%;
+}
+
+#MedGV{
+    position:relative;
+    left: 10%;
+    top: 0px;
+    height: 186px;
+    width: 100px;
+}
+
+#MMan {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(8,175,91);
+    height: 30px;
+    border-radius: 5px;
+    width: 150px;
+}
+
+#MType {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(8,175,91);
+    height: 30px;
+    border-radius: 5px;
+    width: 150px;
+}
+
+button:hover{
+    background-color:aqua;
+}
+
+#Ti {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #15F504;
+    position: relative;
+    left: 45%;
+}
+
+#I {
+    background-image: url(Img/Customer.png);
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 47%;
+}
+
+input {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(8,175,91);
+    height: 20px;
+    border-radius: 5px;
+}
+
+#AddBtn {
+    height: 30px;
+    width: 70px;
+    color: white;
+    background-color: #15F504;
+    border-radius: 10px;
+    border: none;
+}
+button {
+    height: 30px;
+    width: 70px;
+    color: white;
+    background-color: #15F504;
+    border-radius: 10px;
+    border: none;
+}
+
+#BtDiv {
+    position: relative;
+    left: 500px;
+}
+
+#Block1 {
+    position: relative;
+    left: 20%;
+}
